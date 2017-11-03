@@ -3,6 +3,9 @@ import numpy as np
 ```
 The simplest nerual network
 : No hidden layer
+
+Target is to train model X->y
+
 ```
 
 # sigmoid function

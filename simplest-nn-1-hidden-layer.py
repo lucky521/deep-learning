@@ -1,5 +1,10 @@
 import numpy as np
- 
+
+```
+Target is to train model X->y
+``` 
+
+
 # sigmoid function
 # True: f(x) = 1/(1+e^(-x))
 # False: f'(x) = f(x)(1-f(x))
