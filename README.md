@@ -16,7 +16,9 @@ Basic Elements of Deep Learning
 
 ## 理论入门
 
-[神经网络理论基础](https://lucky521.github.io/blog/design/2017/10/14/deep-learning.html)
+[神经网络理论基础](https://lucky521.github.io/blog/design/2017/06/14/deep-learning.html)
+
+[卷积神经网络](https://lucky521.github.io/blog/design/2017/12/21/cnn.html)
 
 
 ## 实践入门
@@ -30,7 +32,7 @@ Basic Elements of Deep Learning
 
 [神经网络架构模型图谱](https://github.com/hunkim/deep_architecture_genealogy)
 
-[机器学习问题与解决方案集](https://github.com//RedditSota/state-of-the-art-result-for-machine-learning-problems)
+[机器学习问题与解决方案集](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
 
 
 ## 经典论文
