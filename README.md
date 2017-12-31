@@ -50,6 +50,9 @@ Basic Elements of Deep Learning
 
 [MIT的花书](http://www.deeplearningbook.org/)
 
+## 门户资料
+
+[deeplearning.net](http://deeplearning.net/)
 
 
 
