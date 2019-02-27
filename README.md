@@ -33,4 +33,11 @@ https://github.com/jcjohnson/densecap
 
 
 
+# 有意思的东西
+
+https://github.com/google/deepdream
+
+https://github.com/jcjohnson/neural-style
+
+
 
