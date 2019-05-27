@@ -2,7 +2,7 @@
 
 Basic Elements of Deep Learning
 
-## 应用实例
+# 应用实例
 
 预测 NBA 比赛结果
 https://mp.weixin.qq.com/s/3vFTxKOE9xPoO0xEow70aA
